@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f45a68e-557d-4023-8c93-08ea44edc6db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoPark 2.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Autopark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/enums/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/enums/CategoryOfRights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/enums/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +37,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/book/Lesson20.06.2024"
+    "last_opened_file_path": "C:/book/AutoPark 2.0",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -108,6 +87,7 @@
       <workItem from="1718893327673" duration="1471000" />
       <workItem from="1718898474064" duration="3064000" />
       <workItem from="1718916207633" duration="25000" />
+      <workItem from="1720107546098" duration="2109000" />
     </task>
     <servers />
   </component>

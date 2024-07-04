@@ -1,3 +1,7 @@
+.idea/*
+AutoPark 2.0.iml
+
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
