@@ -1,0 +1,4 @@
+ffff, 12, C
+rrrr, 13, B
+HHHHH, 14, B
+, 1, C
