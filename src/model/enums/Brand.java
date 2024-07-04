@@ -6,7 +6,9 @@ public enum Brand {
 
     MERCEDES("MERCEDES"),
 
-    BMW("BMW");
+    BMW("BMW"),
+
+    PORSCHE("Porsche");
 
     private String str;
 
